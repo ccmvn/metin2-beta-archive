@@ -1,0 +1,4 @@
+ISOs/** filter=lfs diff=lfs merge=lfs -text
+Discs/** filter=lfs diff=lfs merge=lfs -text
+Clients/** filter=lfs diff=lfs merge=lfs -text
+Installers/** filter=lfs diff=lfs merge=lfs -text
